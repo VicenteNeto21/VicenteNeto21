@@ -6,6 +6,7 @@
 - 🌐 Trabalhar atualmente no site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
 - 🎮 Estou jogando atualmente: League of Legends, Valorant, Legends of Runeterra, TFT e Outros.
 - 💭 Sonho: Trabalhar com E-sports.
+- EM MANUTENÇÃO
 
 
 <!---
