@@ -1,7 +1,7 @@
 - 👋 Olá, sou Vicente Neto.
 - 🎓 Técnico em Informática.
 - 💻 Design gráfico.
-- 👀 Estou interessado em Animes, Programação, Jogos, Mangás e outros assuntos!
+- 👀 Apaixonado por Animes, Programação, Jogos, Mangás e outros assuntos!
 - 🌱 Atualmente estou aprendendo Sistemas de Informação - UFC.
 - 🌐 Trabalhar atualmente no site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
 - 🎮 Estou jogando atualmente: League of Legends, Valorant, Legends of Runeterra, TFT e Outros.
