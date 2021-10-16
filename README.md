@@ -14,8 +14,8 @@
 - 🎮 Jogando de: League of Legends, Valorant, Legends of Runeterra, TFT e Outros.
 ## Sonhos
 - 💭 Sonho: Trabalhar com E-sports e Crescer meu site.
-## Comunicado
-- Todos os projetos serão uplados novamente
+## Comunicados
+- ⚠️ Todos os projetos serão uplados novamente
 <!---
 VicenteNeto21/VicenteNeto21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
