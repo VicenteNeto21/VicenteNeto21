@@ -6,17 +6,16 @@
 - 🎓 Técnico em Informática.
 - 💻 Design gráfico.
 ## Trabalho
-- 🌐 Trabalhar atualmente no site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
-- 📝 Redator em tempo livre
+- 🌐 Trabalhar atualmente com site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
-- 👀 Apaixonado por Animes, Programação, Jogos, Mangás e outros assuntos!
-- 🌱 Atualmente estou aprendendo Sistemas de Informação - UFC.
-- 🎮 Jogando de: League of Legends, Valorant, Legends of Runeterra, TFT e Outros.
+- 👀 Apaixonado por Animes, Programação, Jogos, Mangás!
+- 🌱 Atualmente estou estudando Sistemas de Informação - UFC.
+- 🎮 Jogando de: League of Legends, Legends of Runeterra, TFT, CS 1.6 e Outros.
 ## Sonhos
-- 💭 Sonho: Trabalhar com E-sports e Crescer meu site.
-- 🎤 Aspirante a narrador e editor.
-## Comunicados
-- ⚠️ Todos os projetos serão uplados novamente
+- 💭 Sonho: Crescer meu site.
+- 🎤 Aspirante a Narrador, Comentarista, Jornalista e Editor.
+## Frase
+- 📝 Os limites só existem se você os deixar existir. - Dragon Ball
 <!---
 VicenteNeto21/VicenteNeto21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
