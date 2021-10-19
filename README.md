@@ -14,6 +14,7 @@
 - 🎮 Jogando de: League of Legends, Valorant, Legends of Runeterra, TFT e Outros.
 ## Sonhos
 - 💭 Sonho: Trabalhar com E-sports e Crescer meu site.
+- 🎤 Aspirante a narrador e editor.
 ## Comunicados
 - ⚠️ Todos os projetos serão uplados novamente
 <!---
