@@ -1,15 +1,14 @@
 ## Apresentação
 - 👋 Olá, meu nome é Vicente Neto
 - ✉️ E-mail de contato: <a href="vneto500@gmail.com" target="_blank">vneto500@gmail.com</a>
-- 🌎 Catunda - CE
-- 📚 Estudante de Sistemas de Informação - Universidade Federal do Ceará UFC
+- 🌎 Catunda - CE.
+- 📚 Estudante de Sistemas de Informação - Universidade Federal do Ceará (UFC).
 - 🎓 Técnico em Informática.
 - 💻 Design gráfico.
 ## Trabalho
 - 🌐 Trabalhar atualmente com site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
 - 👀 Apaixonado por Animes, Programação, Jogos, Mangás!
-- 🌱 Atualmente estou estudando Sistemas de Informação - UFC.
 - 🎮 Jogando de: League of Legends, Legends of Runeterra, TFT, CS 1.6 e Outros.
 ## Sonhos
 - 💭 Sonho: Crescer meu site.
