@@ -8,7 +8,7 @@
 ## Trabalho
 - 🌐 Trabalhar atualmente com site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
-- 👀 Apaixonado por Animes, Programação, Jogos, Mangás!
+- 👀 Interessado por Animes, Programação, Jogos, Mangás!
 - 🎮 Jogando de: League of Legends, Legends of Runeterra, TFT, CS 1.6 e Outros.
 ## Sonhos
 - 💭 Sonho: Crescer meu site.
