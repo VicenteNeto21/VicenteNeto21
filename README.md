@@ -9,12 +9,13 @@
 - 🌐 Trabalhar atualmente com site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
 - 👀 Interessado por Animes, Programação, Jogos, Mangás!
+- 😁 Aspirante a Narrador, Comentarista, Jornalista e Editor.
 - 🎮 Jogando de: League of Legends, Legends of Runeterra, TFT, CS 1.6 e Outros.
 ## Sonhos
 - 💭 Sonho: Crescer meu site.
-- 🎤 Aspirante a Narrador, Comentarista, Jornalista e Editor.
 ## Frase
 - 📝 Os limites só existem se você os deixar existir. - Dragon Ball
+- 📝 Para aprender precisa se arriscar.
 <!---
 VicenteNeto21/VicenteNeto21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
