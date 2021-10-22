@@ -16,6 +16,7 @@
 ## Frase
 - 📝 Os limites só existem se você os deixar existir. - Dragon Ball
 - 📝 Para aprender precisa se arriscar.
+- 📝 Estudo é a base de tudo.
 <!---
 VicenteNeto21/VicenteNeto21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
