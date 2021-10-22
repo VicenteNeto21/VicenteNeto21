@@ -9,7 +9,7 @@
 - 🌐 Trabalhar atualmente com site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
 - 👀 Interessado por Animes, Programação, Jogos, Mangás!
-- 😁 Aspirante a Narrador, Comentarista, Jornalista e Editor.
+- 😁 Aspirante a Narrador, Comentarista, Jornalista e Editor de Esports.
 - 🎮 Jogando de: League of Legends, Legends of Runeterra, TFT, CS 1.6 e Outros.
 ## Sonhos
 - 💭 Sonho: Crescer meu site.
