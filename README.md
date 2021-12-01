@@ -6,7 +6,7 @@
 - 🎓 Técnico em Informática.
 - 💻 Design gráfico.
 ## Trabalho
-- 🌐 Trabalhar atualmente com site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
+- 🌐 Trabalho atualmente com site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
 - 👀 Interessado por Animes, Programação, Jogos, Mangás!
 - 😁 Aspirante a Narrador, Comentarista, Jornalista e Editor de Esports.
