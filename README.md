@@ -11,6 +11,7 @@
 - 👀 Interessado por Animes, Programação, Jogos, Mangás!
 - 😁 Aspirante a Narrador, Comentarista, Jornalista e Editor de Esports.
 - 🎮 Jogando de: League of Legends, Legends of Runeterra, TFT, CS 1.6 e Outros.
+- Locutor 
 ## Sonhos
 - 💭 Sonho: Crescer meu site.
 ## Frase
