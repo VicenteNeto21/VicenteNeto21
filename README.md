@@ -6,7 +6,7 @@
 - 🎓 Técnico em Informática.
 - 💻 Design gráfico.
 ## Trabalho
-- 🌐 Trabalho atualmente com site: <a href="animew21.xyz" target="_blank">Mundo dos Otakus</a>.
+- 🌐 Trabalho atualmente com site: <a href="https:mundodosotakus.com.br" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
 - 👀 Interessado por Animes, Programação, Jogos e Mangás!
 - 😁 Aspirante a Jornalista.
@@ -32,9 +32,11 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="auto" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="auto" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img align="center" alt="Javascript" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+ <img align="center" alt="PHP" height="auto" width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+ <img align="center" alt="MySQL" height="auto" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    <img align="center" alt="C" height="auto" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Javascript" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Java" height="auto" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   <img align="center" alt="Java" height="auto" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
  
  ## Frameworks mais usadas para projetos
