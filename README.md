@@ -5,7 +5,7 @@
 - 📚 Estudante de Sistemas de Informação - Universidade Federal do Ceará (UFC).
 - 🎓 Técnico em Informática.
 - 💻 Design gráfico.
-## Trabalho
+## Conheçam meu site
 - 🌐 CEO do site: <a href="https:mundodosotakus.com.br" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
 - 👀 Interessado por Animes, Programação, Jogos e Mangás!
