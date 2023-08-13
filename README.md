@@ -6,18 +6,18 @@
 - 🎓 Técnico em Informática.
 - 💻 Design gráfico.
 ## Trabalho
-- 🌐 Trabalho atualmente com site: <a href="https:mundodosotakus.com.br" target="_blank">Mundo dos Otakus</a>.
+- 🌐 CEO do site: <a href="https:mundodosotakus.com.br" target="_blank">Mundo dos Otakus</a>.
 ## Demais Informações
 - 👀 Interessado por Animes, Programação, Jogos e Mangás!
 - 😁 Aspirante a Jornalista.
 - 🎮 Jogando de: League of Legends, Legends of Runeterra, TFT, CS 1.6 e Outros.
-## Sonhos
+<!---## Sonhos
 - 💭 Sonho: Crescer meu site.
 ## Frase
 - 📝 Os limites só existem se você os deixar existir. - Dragon Ball
 - 📝 Para aprender precisa se arriscar.
 - 📝 Estudo é a base de tudo.
-<!---
+
 VicenteNeto21/VicenteNeto21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
