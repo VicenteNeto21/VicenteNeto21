@@ -38,12 +38,19 @@ You can click the Preview link to take a look at your changes.
    <img align="center" alt="C" height="auto" width="auto" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
    <img align="center" alt="Java" height="auto" width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
+
+## Ferramentas mais usadas:
+<div style="display: inline_block">
+  <img align="center" alt="Figma" height="auto" width="auto" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="VS Code" height="auto" width="auto" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+ <img align="center" alt="Eclipse" height="auto" width="auto" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+</div>
  
  ## Frameworks mais usadas para projetos
 <div style="display: inline_block">
   <img align="center" alt="Boostrap" height="auto" width="auto" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Materialize" height="auto" width="auto" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white">
-</div> 
+</div>
  
  ## Redes Sociais
 <div> 
